@@ -1,2 +1,1 @@
-# userManagementLaravel
-User Management using Laravel framework
+# Simple Github demo
